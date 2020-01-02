@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 
 export default class Spaceship {
   render() {
-    return(
+    return (
       <div>
         <h1>{ this.props.name }</h1>
         <dl>
